@@ -1,13 +1,21 @@
 <template>
-$END$
+  <div>
+      1231231313
+  </div>
 </template>
 
 <script>
 export default {
-name: "Index"
+name: "Index",
+
 }
 </script>
 
 <style scoped>
+  div{
+    color: #2dd36f;
+  }
+  body{
 
+  }
 </style>

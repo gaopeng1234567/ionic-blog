@@ -13,6 +13,12 @@ export default defineComponent({
   components: {
     IonApp,
     IonRouterOutlet
-  }
+  },
+  mounted() {
+    document.body.classList.remove('dark');
+  },
 });
 </script>
+<style>
+
+</style>
